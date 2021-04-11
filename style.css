@@ -186,7 +186,7 @@ h3 {
 .carousel-container {
 	margin: 50px 400px 100px 400px;
 }
-@media (max-width: 767px) {
+@media (max-width: 967px) {
 	.carousel-container {
 		margin: 20px;
 	}
